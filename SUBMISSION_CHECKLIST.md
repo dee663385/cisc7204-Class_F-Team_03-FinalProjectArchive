@@ -14,7 +14,7 @@
 - [x] Proposal, work plan, meeting minutes, team roles, and feasibility check
 - [x] Final presentation, final story video, narration script, and Q&A document
 - [x] Public GitHub repository URL added to `README.md`
-- [ ] Public repository tested in a browser without University login
+- [x] Public repository access verified without authentication on 2026-11-26
 
 ## Before submission
 
@@ -24,4 +24,5 @@
 4. Confirm that the repository opens without a login prompt.
 5. Download the repository ZIP from GitHub and verify that it contains the same structure.
 6. Submit the required final archive ZIP through Moodle.
+
 
