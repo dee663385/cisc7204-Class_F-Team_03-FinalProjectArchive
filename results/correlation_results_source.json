@@ -1,0 +1,72 @@
+{
+  "levels_full": {
+    "n": 25,
+    "pearson": 0.8190041683454068,
+    "p_pearson": 5.574083989096983e-07,
+    "spearman": 0.8338461538461539,
+    "p_spearman": 2.2515669455692322e-07
+  },
+  "levels_log": {
+    "n": 25,
+    "pearson": 0.8515482877028595,
+    "p_pearson": 6.755538047151904e-08,
+    "spearman": 0.8338461538461539,
+    "p_spearman": 2.2515669455692322e-07
+  },
+  "yoy_changes": {
+    "n": 24,
+    "pearson": 0.7950408819617804,
+    "p_pearson": 3.455880769586999e-06,
+    "spearman": 0.7513043478260868,
+    "p_spearman": 2.3240608354750945e-05
+  },
+  "levels_Pandemic (2020-2022)": {
+    "n": 3,
+    "pearson": 0.9582623452323804,
+    "p_pearson": 0.1845786101187015,
+    "spearman": 0.5,
+    "p_spearman": 0.6666666666666666
+  },
+  "yoy_Pandemic (2020-2022)": {
+    "n": 3,
+    "pearson": 0.9996521240823704,
+    "p_pearson": 0.016792675435000404,
+    "spearman": 1.0,
+    "p_spearman": 0.0
+  },
+  "levels_Pre-pandemic (2000-2019)": {
+    "n": 20,
+    "pearson": 0.8108428854748881,
+    "p_pearson": 1.4486119650232337e-05,
+    "spearman": 0.819548872180451,
+    "p_spearman": 9.80668961812618e-06
+  },
+  "yoy_Pre-pandemic (2000-2019)": {
+    "n": 19,
+    "pearson": 0.5585248596947439,
+    "p_pearson": 0.012935749508651529,
+    "spearman": 0.5666666666666667,
+    "p_spearman": 0.01141482852329784
+  },
+  "levels_Recovery (2023-2024)": {
+    "n": 2,
+    "pearson": NaN,
+    "p_pearson": NaN,
+    "spearman": NaN,
+    "p_spearman": NaN
+  },
+  "levels_pre": {
+    "n": 20,
+    "pearson": 0.8108428854748881,
+    "p_pearson": 1.4486119650232337e-05,
+    "spearman": 0.819548872180451,
+    "p_spearman": 9.80668961812618e-06
+  },
+  "yoy_pre": {
+    "n": 19,
+    "pearson": 0.5585248596947439,
+    "p_pearson": 0.012935749508651529,
+    "spearman": 0.5666666666666667,
+    "p_spearman": 0.01141482852329784
+  }
+}

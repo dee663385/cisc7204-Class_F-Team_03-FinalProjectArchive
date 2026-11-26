@@ -1,0 +1,36 @@
+{
+  "window": [
+    2000,
+    2024
+  ],
+  "n_years": 25,
+  "arrivals_2000_m": 5.2,
+  "arrivals_2019_m": 18.63,
+  "arrivals_2020_m": 2.82,
+  "arrivals_2024_m": 16.04,
+  "gdp_2019": 133454,
+  "gdp_2020": 59662,
+  "gdp_2024": 111694,
+  "arrivals_drop_2019_2020_pct": -84.9,
+  "gdp_drop_2019_2020_pct": -55.3,
+  "arrivals_recovery_2024_vs_2019_pct": 86.1,
+  "gdp_recovery_2024_vs_2019_pct": 83.7,
+  "corr_levels_full": {
+    "n": 25,
+    "pearson": 0.819,
+    "p_pearson": 0.0,
+    "spearman": 0.834,
+    "p_spearman": 0.0
+  },
+  "corr_levels_pre": {
+    "n": 20,
+    "pearson": 0.811,
+    "p_pearson": 0.0,
+    "spearman": 0.82,
+    "p_spearman": 0.0
+  },
+  "log_log_slope": 0.536,
+  "yoy_pearson": 0.795,
+  "yoy_pearson_pre": 0.559,
+  "n_recovery_years": 2
+}

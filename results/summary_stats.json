@@ -1,0 +1,50 @@
+{
+  "window": [
+    2000,
+    2024
+  ],
+  "n_years": 25,
+  "arrivals_2019_m": 18.633,
+  "arrivals_2020_m": 2.822,
+  "arrivals_2024_m": 16.044,
+  "gdp_2019": 133453.89,
+  "gdp_2020": 59662.48,
+  "gdp_2024": 111693.5,
+  "arrivals_drop_2019_2020_pct": -84.85,
+  "gdp_drop_2019_2020_pct": -55.29,
+  "arrivals_recovery_2024_vs_2019_pct": 86.1,
+  "gdp_recovery_2024_vs_2019_pct": 83.7,
+  "recovery_gap_percentage_points": 2.4,
+  "log_log_slope": 0.5359,
+  "ten_percent_arrivals_associated_gdp_pct": 5.24,
+  "correlations": {
+    "full_levels": {
+      "n": 25,
+      "pearson": 0.8190041683454068,
+      "pearson_p": 5.574083989096986e-07,
+      "spearman": 0.8338461538461539,
+      "spearman_p": 2.2515669455692335e-07
+    },
+    "pre_pandemic_levels": {
+      "n": 20,
+      "pearson": 0.8108428854748883,
+      "pearson_p": 1.4486119650232332e-05,
+      "spearman": 0.819548872180451,
+      "spearman_p": 9.806689618126176e-06
+    },
+    "full_growth": {
+      "n": 24,
+      "pearson": 0.7950408819617802,
+      "pearson_p": 3.4558807695869983e-06,
+      "spearman": 0.7513043478260868,
+      "spearman_p": 2.324060835475095e-05
+    },
+    "pre_pandemic_growth": {
+      "n": 19,
+      "pearson": 0.5585248596947437,
+      "pearson_p": 0.01293574950865159,
+      "spearman": 0.5666666666666667,
+      "spearman_p": 0.01141482852329784
+    }
+  }
+}
